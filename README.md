@@ -1,17 +1,19 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+An app to create and check-off todo lists.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Create, check-off and delete todo list items with a feature to optionally add a due date to each.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+-HTML
+-CSS
+-JS
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Deployment Link](https://brandon7495.github.io/se_project_todo-app/)
