@@ -4,7 +4,7 @@ An app to create and check-off todo lists.
 
 ## Functionality
 
-Create, check-off and delete todo list items with a feature to optionally add a due date to each.
+Create, check-off and delete todo list items with an additional feature to optionally add a due date to each.
 
 ## Technology
 
